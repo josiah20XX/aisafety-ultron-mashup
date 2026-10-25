@@ -1,4 +1,4 @@
-# New ideas via recombination of repositories
+# New ideas via recombination of repositories aka 'Ultron AI Mashup'
 
 by Josiah Rhys Jacobson prompting Claude Haiku eg. "Scan all repos. Assuming these are vibrant ideas, generate 10 new ideas inspired by those (recombinatorial, or inject new but must link to combinations etc)"
 
