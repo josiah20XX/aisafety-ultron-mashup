@@ -1,6 +1,8 @@
-# New ideas via recombination of repositories aka 'Ultron AI Mashup'
+# "Ultron AI Ultra Mashup" - New ideas via recombination of repositories
 
-by Josiah Rhys Jacobson prompting Claude Haiku eg. "Scan all repos. Assuming these are vibrant ideas, generate 10 new ideas inspired by those (recombinatorial, or inject new but must link to combinations etc)"
+By Josiah Rhys Jacobson prompting Claude Haiku eg. "Scan all repos. Assuming these are vibrant ideas, generate 10 new ideas inspired by those (recombinatorial, or inject new but must link to combinations etc)". 
+
+Part of a mission to explore and understand the power, potential and and danger of AI. Ultimately contributing to the promotion and advancement of AI safety.
 
 # OG Result
 
